@@ -1,4 +1,4 @@
-## O que foi desenvolvido no projeto
+# O que foi desenvolvido no projeto
 
 Neste projeto criamos uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo suas funcionalidades de acordo com demandas definidas em um quadro _Kanban_, em um cenário mais próximo ao do mercado de trabalho. A partir dessas demandas, teremos uma aplicação onde os usuários poderão:
   - Buscar produtos por termos e categorias a partir da _API do Mercado Livre_;
@@ -25,10 +25,6 @@ Neste projeto criamos uma versão simplificada, sem persistência no banco de da
 
 
 # FrontEnd-online-store
-=======
-### Termos de acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
 
 # Boas vindas ao repositório do projeto de Front-End Online Store!
 
@@ -774,5 +770,5 @@ Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/2OfLJPn)
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
 
-Projeto proposto pela Trybe
+Projeto proposto pela Trybe. Uso exclusivo para prática do assunto estudado.
 
