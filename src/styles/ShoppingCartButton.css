@@ -1,0 +1,35 @@
+.cart-button {
+  background: url('../images/shopping-cart.svg') no-repeat center;
+  background-size: 25px;
+  height: 25px;
+  position: absolute;
+  width: 25px;
+}
+
+.cart-link {
+  background: transparent;
+  cursor: pointer;
+  font-size: 0;
+  height: 30px;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 30px;
+}
+
+.cart-size {
+  align-items: center;
+  background-color: red;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  font-size: 10px;
+  height: 15px;
+  justify-content: center;
+  left: 15px;
+  position: relative;
+  top: 15px;
+  user-select: none;
+  width: 15px;
+}
