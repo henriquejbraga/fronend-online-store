@@ -19,9 +19,9 @@ Neste projeto criamos uma versão simplificada, sem persistência no banco de da
 ---
 # Grupo 
 
-Henrique Junqueira Braga
-Brian Caetano
-Marcello Pires Alves
+ - Henrique Junqueira Braga
+ - Brian Caetano
+ - Marcello Pires Alves
 
 <<<<<<< HEAD
 # fronend-online-store
@@ -772,7 +772,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
 Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/2OfLJPn)
 
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
->>>>>>> b60d02f82638494216ca350ba819d02f217a0b94
+
 
 Projeto proposto pela Trybe
 
