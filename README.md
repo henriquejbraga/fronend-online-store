@@ -23,8 +23,8 @@ Neste projeto criamos uma versão simplificada, sem persistência no banco de da
  - Brian Caetano
  - Marcello Pires Alves
 
-<<<<<<< HEAD
-# fronend-online-store
+
+# FrontEnd-online-store
 =======
 ### Termos de acordos
 
